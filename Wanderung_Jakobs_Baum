@@ -1,0 +1,171 @@
+!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>On(e) Earth</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+<!-- Header -->
+<div id="header">
+
+	<!-- Logo -->
+	<section class="logo">
+		<div class="logo box">
+			<a href="#" class="logo left"><img src="images/logo.jpg" alt="" style="height: 100px; float: left";  /></a>
+		</div>
+	</section>
+	<h1><a href="index.html" id="logo">On(e) Earth<em></em></a></h1>
+
+	<!-- Nav -->
+		<nav id="nav">
+			<ul>
+				
+				<li><a href="index.html">Home</a></li>
+					<li><a href="">News</a></li>
+					<ul>
+						<li><a href="Wanderung.html">Wanderung zu Jakobs Baum</a></li>
+						<li><a href="Handysammelaktion.html">Handysammelaktion</a></li>
+						<!--<li>
+							<a href="#">Submenu</a>
+							<ul>
+								<li><a href="#">Lorem dolor</a></li>
+								<li><a href="#">Phasellus magna</a></li>
+								<li><a href="#">Magna phasellus</a></li>
+								<li><a href="#">Etiam nisl</a></li>
+								<li><a href="#">Veroeros feugiat</a></li>
+							</ul>
+						</li>
+						<li><a href="#">Veroeros feugiat</a></li>
+					--></ul>
+				</li>
+				<li class="current"><a href="left-sidebar.html">Blog</a></li>
+				<!--<li><a href="right-sidebar.html">Erfolge</a></li>-->
+				<li><a href="Podcast.html">Podcast</a></li>
+				<li><a href="About.html">About</a></li>
+			</ul>
+		</nav>
+
+</div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div id="content">
+
+							<!-- Content -->
+
+								<article>
+									<header>
+										<h2>5 Tipps, um den Wald zu schützen</h2>
+										
+									</header>
+
+									
+
+								
+
+									
+									<p>Rund 30% unseres Planetens sind von Wald bedeckt. Wald aus den gemäßigten Breiten, wie zum Beispiel bei uns, oder Regenwald wie im Amazonas. Und all diese Wälder sind bedroht. Der Amazonas vor allem durch die Rodungen, aber auch hier in Deutschland sind unsere heimischen Wälder durch Rodung, aber auch durch Schädlinge wie den Borkenkäfer bedroht. Dabei sind Wälder so wichtig für uns und unser Klima. Wir als Organisation wollen den Wald vor unserer Haustür schützen!
+                                        Wie auch du ganz persönlich etwas zum Schutz unserer Wälder beitragen kannst, erfährst du hier. Los gehts!
+
+                                       <p> 1. Verwende kein Tropenholz!
+                                        Es gibt im Markt viele Möbel oder andere Holzprodukte, wo schwer zu erkennen ist, ob es aus dem Regenwald kommt. Dieses Holz hat noch einen höheren Co2-Ausstoß als, da es um die ganze Welt geflogen werden musste und dafür wurde die „Lunge der Erde“ abgeholzt. Es gibt Siegel, die Kennzeichnen, ob es nachhaltiges Holz ist, wie zum Beispiel FSC oder PEFC.</p>
+                                        
+                                        <p>2. Auf Palmöl verzichten
+                                        Für Palmöl werden große Regenwald-Flächen für Ölpalmen-Plantagen wodurch große Teile dieses einzigartigen Ökosystems verloren gehen.</p>
+                                        
+                                        <p>3. Meide Fleisch und Soja
+                                        Für die Nahrung der Tiere (Soja) werden große Regenwald-Flächen abgeholzt und auch für die Tiere muss Platz her, wodurch auch noch Regenwald-Fläche als Weideland benutzt wird. Dies hat drastische Folgen auf unser Klima.</p>
+                                        
+                                        <p>4. Lass dir Wald oder Bäume schenken
+                                        Wir haben letztens eine Wanderung zu dem Baum von Jakob gemacht, den er geschenkt bekommen hat. Mach doch sowas auch! Egal ob zum Geburtstag, zu Weihnachten, etc. Damit schützt du den Wald und kannst den Baum auch noch besuchen, so wie wir.</p>
+                                        
+                                        <p>5. Setzte dich für den Waldschutz ein
+                                        Gehe zu irgendwelchen Protesten für den Umweltschutz oder Klimaschutz. Somit kannst du dich direkt engagieren und etwas bewirken. Oder du engagierst dich bei uns. Bei On(e) Earth!!!</p>
+								</article>
+
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+					<!-- Footer -->
+			<div id="footer">
+				<div class="container">
+					<div class="row">
+						<section class="col-3 col-6-narrower col-12-mobilep">
+							<h3>Links</h3>
+							<ul class="links">
+								<li><a href="https://www.instagram.com/on_earth124/">Insta-Kanal</a></li>
+								<li><a href="https://www.ecosia.org/?c=de">Ecosia - Der Browser, der Bäume pflanzt</a></li>
+								<li><a href="https://www.prowildlife.de/aktuelles/mitmachaktion/handys-sammeln-spenden/">Handysammelaktion</a></li>
+							</ul>
+						</section>
+						<section class="col-3 col-6-narrower col-12-mobilep">
+							<h4>Wir hoffen, dass euch unsere Website gefallen hat und dass 
+								ihr jetzt ein bisschen mehr über uns wisst.
+								 Wenn ihr uns beitreten wollt oder uns anderseitig unterstützen wollt,
+								dann kontaktiert uns <b>hier rechts</b>. Bis dann!
+							PS: Folgt uns doch auch auf Instagramm und hinterlasst ein bisschen Feedback ;-)! </h4>
+							<ul class="links"></ul>
+						</section>
+						<section class="col-6 col-12-narrower">
+							<h3>Kontaktiert uns!</h3>
+							<form>
+								<div class="row gtr-50">
+									<div class="col-6 col-12-mobilep">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="col-6 col-12-mobilep">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="col-12">
+										<textarea name="message" id="message" placeholder="Nachricht" rows="5"></textarea>
+									</div>
+									<div class="col-12">
+										<ul class="actions">
+											<li><input type="submit" class="button alt" value="Sende Nachricht" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+						</section>
+					</div>
+				</div>
+
+				<!-- Icons -->
+					<ul class="icons">
+						<li><a href="http://www.instagram.com/on_earth124/" class="icon brands fa-instagram"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-spotify"><span class="label">Spotify</span></a></li>
+						<li><a href="#" class="icon brands fa-apple"><span class="label">Apple</span></a></li>
+					</ul>
+
+				<!-- Copyright -->
+					<div class="copyright">
+						<ul class="menu">
+							<li>&copy; Untitled. All rights reserved</li><li>Impressum: Neels Schüder, Grafel 5, 27308 Kirchlinteln, Mail: n.schueder@gmx.de</a></li>
+						</ul>
+					</div>
+
+			</div>
+
+	</div>
+
+	<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>
